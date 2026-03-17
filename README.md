@@ -1,17 +1,14 @@
 ## Welcome!
+ - My name is Fernando Soares Goudard
+ - Electrical Engineering graduate with years of experience in technology and building automation.
+ - Solid experience with requirements gathering and analysis, implementation of customized technical solutions, production of technical and functional documentation, creating dashboards, technical reports and SQL database management.
+ - Formal education in Data Science and Analysis from **TripleTen Data Analyst Bootcamp** and **HarvardX CS109X**.
+ - Practical experience with data collection, cleaning, transformation, and preprocessing to exploratory analysis, statistical testing, visualization creation, and solving business problems with data.
+ - strong adaptability, clear technical communication, and a keen interest in applying data to generate real value.
+ - Python (pandas, numpy, matplotlib, seaborn, scipy, among others), SQL, Excel, and visualization and dashboard building tools like Dash and Tableau.
 
-**My name is Fernando Soares Goudard, and it is a pleasure to have you here.** I'm an **Electrical Engineering** graduate and work professionally in the field of Building Automation, with a career marked by technology, process analysis, and a constant search for improvement and innovation.
-
-Throughout my professional experience, I have developed solid skills in requirements gathering and analysis, implementation of customized technical solutions, production of technical and functional documentation, as well as user support and customer relations. I also have experience with creating dashboards, technical reports, SQL database management, and technical presentations for different stakeholders.
-
-Over time, I nurtured a strong interest in data analysis and data-driven decision-making. To further my knowledge in this area, I completed the **Data Analyst course at TripleTen**, where I gained practical experience with the entire data analysis flow. From data collection, cleaning, transformation, and preprocessing to exploratory analysis, statistical testing, visualization creation, and solving business problems with data.
-
-During the course, I worked with tools and technologies widely used in the market, such as **Python (pandas, numpy, matplotlib, seaborn, scipy, among others), SQL, Excel, and visualization and dashboard building tools like Dash and Tableau.** I also developed an analytical mindset focused on KPIs, clear communication of insights, and decision-making support.
-
-In addition, I'm constantly seeking technical and academic improvement, having taken courses at renowned institutions, such as **Introduction to Data Analysis (CS109x) at Harvard**, reinforcing my foundation in **statistics, data analysis, and critical thinking.**
-
-I'm a professional with **strong adaptability, clear technical communication, and a keen interest in applying data to generate real value.** If you want to exchange ideas, ask questions, or talk about data, technology, or projects, I would be happy to chat!
-
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,postgres,py,vscode)](https://skillicons.dev)
+   
 ### Feel free to contact me!
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fernandogoudard/)
